@@ -6,6 +6,8 @@
       <module name="Parking_Lot-task_test" target="1.8" />
       <module name="Problems-Is_it_here_main" target="1.8" />
       <module name="Problems-Is_it_here_test" target="1.8" />
+      <module name="Problems-Just_checking_main" target="1.8" />
+      <module name="Problems-Just_checking_test" target="1.8" />
       <module name="Problems-The_eternal_truth_main" target="1.8" />
       <module name="Problems-The_eternal_truth_test" target="1.8" />
       <module name="util_main" target="1.8" />
