@@ -165,9 +165,6 @@ files:
         println("Green car just parked here.")
     }
   learner_created: false
-- name: src/parking/Main.kt~Stashed changes
-  visible: true
-  learner_created: false
 feedback_link: https://hyperskill.org/projects/75/stages/418/implement
-status: Unchecked
-record: -1
+status: Failed
+record: 5
