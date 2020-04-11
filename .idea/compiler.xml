@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="Parking_Lot-task_main" target="1.8" />
-      <module name="Parking_Lot-task_test" target="1.8" />
-      <module name="Problems-Counting_main" target="1.8" />
-      <module name="Problems-Counting_test" target="1.8" />
-      <module name="Problems-Individual_taxes_main" target="1.8" />
-      <module name="Problems-Individual_taxes_test" target="1.8" />
-      <module name="Problems-Is_it_here_main" target="1.8" />
-      <module name="Problems-Is_it_here_test" target="1.8" />
-      <module name="Problems-Just_checking_main" target="1.8" />
-      <module name="Problems-Just_checking_test" target="1.8" />
-      <module name="Problems-The_eternal_truth_main" target="1.8" />
-      <module name="Problems-The_eternal_truth_test" target="1.8" />
-      <module name="util_main" target="1.8" />
-      <module name="util_test" target="1.8" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8" />
   </component>
 </project>
